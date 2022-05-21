@@ -21,6 +21,7 @@ a {
 }
 
 .container {
+    width: 60%;
     padding: 50px 20%;
     align-self: center;
     display: flex;
